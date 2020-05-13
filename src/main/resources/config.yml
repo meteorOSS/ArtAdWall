@@ -1,0 +1,27 @@
+setting:
+  lore-max: 20
+  name-max: 10
+black-lore:
+  - '正业'
+  - '妈妈'
+  - 'meteor'
+type:
+  shop: '&a商店'
+  mobspanwner: '&c刷怪场'
+  town: '&6小镇'
+  other: '&b其他'
+item:
+  name: '%ad_name%'
+  ID: 'SIGN'
+  data: 0
+  lore:
+    - '&8&l&m &7&l&m              &8&l&m '
+    - '&a建筑类型 - %type%'
+    - '&a所在世界 - %world%'
+    - '&a建筑主人 - %owner%'
+    - '&a当前状态 - %enable%'
+    - '&d爱心数: - %like%'
+    - '&8&l&m &7&l&m              &8&l&m '
+    - '&f[ &6介绍 &f]'
+  sub-lore:
+    - '&8&l&m &7&l&m              &8&l&m '

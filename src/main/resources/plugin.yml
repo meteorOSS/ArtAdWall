@@ -1,0 +1,7 @@
+name: ArtAdWall
+version: ${project.version}
+main: com.meteor.artadwall.ArtAdWall
+api-version: 1.13
+authors: [meteor]
+commands:
+  artad:

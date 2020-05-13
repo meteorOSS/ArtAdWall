@@ -1,0 +1,36 @@
+title: '&a编辑建筑广告'
+edit-icon:
+  rname:
+    ID: STONE
+    data: 0
+    name: '&a更改名字'
+    lore:
+      - '&f更改建筑的展示名'
+      - '&f可使用彩色字体&'
+  rlore:
+    ID: STONE
+    data: 0
+    name: '&a更改描述'
+    lore:
+      - '&f更改建筑的描述'
+      - '&f可使用彩色字体&'
+  rtp:
+    ID: STONE
+    data: 0
+    name: '&a更改传送点'
+    lore:
+      - '&f将脚下设置为新的传送点'
+      - '&c禁止恶意设置虚空,岩浆点'
+  rtype:
+    ID: STONE
+    data: 0
+    name: '&a更改类型'
+    lore:
+      - '&f更改建筑的类型'
+  ricon:
+    ID: STONE
+    data: 0
+    name: '&a更改图标'
+    lore:
+      - '&f更改建筑的展示图标'
+      - '&f部分需花费金币购买'

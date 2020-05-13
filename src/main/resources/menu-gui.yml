@@ -1,0 +1,27 @@
+title: '&a建筑广告 - '
+items:
+  next-page:
+    ID: 'STAINED_GLASS_PANE'
+    data: 5
+    name: '&a下一页 - > '
+    lore:
+      - '&0'
+  pre-page:
+    ID: 'STAINED_GLASS_PANE'
+    data: 14
+    name: '&c上一页 - > '
+    lore:
+      - '&0'
+  flag:
+    ID: 'STAINED_GLASS_PANE'
+    data: 0
+    name: '&0 '
+  like-sort:
+    ID: 'STAINED_GLASS_PANE'
+    data: 4
+    name: '&a切换排序方式'
+    lore:
+      - '&0'
+      - '&f当前排序方式为 - %sort-type%'
+      - '&f点击切换排序方式为 - %sort-new%'
+      - '&0'
