@@ -4,7 +4,6 @@ import com.meteor.artadwall.data.AdData;
 
 import java.util.Comparator;
 import java.util.List;
-
 public enum Sort {
     DATE,LIKE;
     public List<AdData> sort(List<AdData> ads)
@@ -15,7 +14,7 @@ public enum Sort {
                 ads.sort(Comparator.comparingLong(AdData::getDate));
                 break;
             case LIKE:
-                ads.sort(Comparator.comparingLong(AdData::getLike));
+                ads.sort((a,b)->Integer.compare(b.getLike(),a.getLike()));
                 break;
         }
         return ads;

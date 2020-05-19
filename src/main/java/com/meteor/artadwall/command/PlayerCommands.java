@@ -13,6 +13,8 @@ public class PlayerCommands implements CommandExecutor {
     static {
         cmd.put("help",new HelpCommand());
         cmd.put("create",new CreateCommands());
+        cmd.put("open",new OpenCommands());
+        cmd.put("edit",new EditCommands());
     }
 
     @Override

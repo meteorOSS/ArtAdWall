@@ -1,0 +1,9 @@
+title: '&a请选择你要编辑的建筑广告'
+items:
+  create-new:
+    ID: 'WHITE_STAINED_GLASS_PANE'
+    slot: 5
+    data: 0
+    name: '&a创建新的广告'
+    lore:
+      - '&f点击创建新的建筑广告'

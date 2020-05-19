@@ -1,36 +1,51 @@
 title: '&a编辑建筑广告'
 edit-icon:
+  remove:
+    ID: 'BARRIER'
+    slot: 8
+    data: 0
+    name: '&a删除广告'
+    lore:
+      - '&f删除当前的建筑广告'
+      - '&c谨慎操作,花费游戏币不予退还'
   rname:
-    ID: STONE
+    ID: 'ITEM_FRAME'
+    slot: 2
     data: 0
     name: '&a更改名字'
     lore:
       - '&f更改建筑的展示名'
-      - '&f可使用彩色字体&'
+      - '&f可使用彩色字体'
   rlore:
-    ID: STONE
+    ID: 'PAINTING'
+    slot: 3
     data: 0
     name: '&a更改描述'
     lore:
       - '&f更改建筑的描述'
-      - '&f可使用彩色字体&'
+      - '&f可使用彩色字体'
   rtp:
-    ID: STONE
+    ID: 'NETHER_STAR'
+    slot: 4
     data: 0
     name: '&a更改传送点'
     lore:
       - '&f将脚下设置为新的传送点'
       - '&c禁止恶意设置虚空,岩浆点'
   rtype:
-    ID: STONE
+    ID: 'BOW'
+    slot: 5
     data: 0
     name: '&a更改类型'
     lore:
       - '&f更改建筑的类型'
+      - '&f以便其他玩家更容易确定'
+      - '&f你建筑的&a定位'
   ricon:
-    ID: STONE
+    ID: 'BOOK'
+    slot: 6
     data: 0
-    name: '&a更改图标'
+    name: '&a返回选择广告'
     lore:
-      - '&f更改建筑的展示图标'
-      - '&f部分需花费金币购买'
+      - '&f返回上一页重新选择'
+      - '&f要操作编辑的广告'

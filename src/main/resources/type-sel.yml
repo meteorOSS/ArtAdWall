@@ -1,0 +1,37 @@
+title: '&a更改建筑类型'
+items:
+  return:
+    ID: 'BARRIER'
+    slot: 6
+    data: 0
+    name: '&c返回'
+    lore:
+      - '&f返回上一页'
+  shop:
+    ID: 'CHEST'
+    slot: 2
+    data: 0
+    name: '&6商店'
+    lore:
+      - '&f更改建筑类型为 &6商店'
+  other:
+    ID: 'REDSTONE'
+    slot: 3
+    data: 0
+    name: '&b其他'
+    lore:
+      - '&f更改建筑类型为 &b其他'
+  mob:
+    ID: 'BOW'
+    slot: 4
+    data: 0
+    name: '&3刷怪场'
+    lore:
+      - '&f更改建筑类型为 &b刷怪场'
+  town:
+    ID: 'BOOKSHELF'
+    slot: 5
+    data: 0
+    name: '&a小镇'
+    lore:
+      - '&f更改建筑类型为 &b刷怪场'

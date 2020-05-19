@@ -28,5 +28,6 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: net.md-5:bungeecord-chat:1.15-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.yaml:snakeyaml:1.25" level="project" />
     <orderEntry type="library" name="[前置]ArtLib-1.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Vault-1.6.6" level="project" />
   </component>
 </module>
